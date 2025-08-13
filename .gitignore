@@ -1,0 +1,46 @@
+# Flutter/Dart-specific
+.dart_tool/
+.packages
+.pub/
+build/
+flutter_*.png
+generated_plugin_registrant.dart
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Dependency lock files (optional)
+pubspec.lock
+
+# Firebase/Crashlytics
+crashlytics/
+firebase-debug.log
+
+# Web build artifacts
+web/index.html
+web/favicon.png
+web/icons/
+
+# Android/iOS build
+android/app/build/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+
+# Misc
+*.swp
+*.swo
